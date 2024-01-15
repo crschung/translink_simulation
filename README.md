@@ -1,3 +1,3 @@
 # Bus Simulator
 ## Background
-This simulation tool modes a bus route in an urban enivronment.
+This simulation tool models a bus route in an urban enivronment.
